@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* gradiente animado */
+.animate-gradient {
+  background-size: 400% 400%;
+}
